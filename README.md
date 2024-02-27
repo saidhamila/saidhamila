@@ -1,4 +1,4 @@
-- 👋 Hey there, I'm @BilBini! \n
+- 👋 Hey there, I'm @BilBini!
 - 🚀 Passionate about AI, Machine Learning, and Game Development.
 - 🌱 During my high school journey in Computer Science, I honed my skills in Python, JavaScript, MySQL, PHP, HTML & CSS.
 - 💡 Currently enrolled at a Bachelor in Computer Science at IUBH University. I am a Community Manager at TIMUN. A Tunisian club, surrounding MUN (Model United Nations) Simulations.
