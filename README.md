@@ -1,23 +1,23 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BilBini.BilBini" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there,+I%27m+@BilBini!+👋;Passionate+about+AI,+Machine+Learning+and+Game+Development!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there,+I%27m+@BilBini!+👋;Vibe+Coder+and+CS+Student;Passionate+about+AI,+ML,+Game+Dev+and+More!" />
 </h1>
 
-<h3 align="center">CS Student | AI & ML Enthusiast | Game Dev & Community Manager</h3>
+<h3 align="center">Vibe Coder | Computer Science Student | AI & ML Enthusiast | Community Manager</h3>
 
 <br/>
 
 <div align="center">
-  🚀 I’m passionate about <strong>AI, Machine Learning, and Game Development</strong>  
+  🚀 I’m passionate about <strong>AI, Machine Learning, Game Development</strong> and crafting code with a unique vibe  
   <br/><br/>
-  🌱 I built a strong foundation in <strong>Python, JavaScript, MySQL, PHP, HTML & CSS</strong> during my high school journey  
+  🌱 I built a solid foundation during high school with skills in <strong>Python, JavaScript, C++, C#, PHP, HTML, CSS, MySQL</strong>  
   <br/><br/>
-  🎓 Currently pursuing a <strong>Bachelor in Computer Science at IUBH University</strong>  
+  🎓 Currently pursuing a <strong>Bachelor in Computer Science</strong> at IUBH University and living the coder life  
   <br/><br/>
-  🤖 Community Manager @ <strong>TIMUN</strong> – I designed and launched our community Discord server and developed a custom bot tailored for Model United Nations simulations. Check it out: <a href="https://discord.gg/EebBEGUhqx" target="_blank">Join our TIMUN Discord</a>
+  🤖 Community Manager @ <strong>TIMUN</strong> – I designed and launched our Discord server and developed a custom bot for our Model United Nations simulations. Check it out: <a href="https://discord.gg/EebBEGUhqx" target="_blank">Join our TIMUN Discord</a>
   <br/><br/>
-  📬 Connect with me on <strong>TikTok: <a href="https://www.tiktok.com/@BilBini" target="_blank">@BilBini</a></strong>  
+  📬 Let's connect on <strong>TikTok: <a href="https://www.tiktok.com/@BilBini" target="_blank">@BilBini</a></strong>
   <br/><br/>
   👥 Open to collaborations and discussions. Let's build something amazing together!
 </div>
@@ -38,7 +38,11 @@
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,mysql,discord" alt="Skills" />
+  <!-- Main Technologies -->
+  <img src="https://skillicons.dev/icons?i=docker,python,javascript,c++,csharp,react,nextjs" alt="Core Skills" />
+  <br/><br/>
+  <!-- Additional Skills -->
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,php" alt="Additional Skills" />
 </div>
 
 <br/>
