@@ -25,7 +25,7 @@
 <br/>
 
 <div align="center"> 
-  <a href="https://discord.gg/EebBEGUhqx" target="_blank">
+  <a href="https://discord.gg/6YxU7ezEsF" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.tiktok.com/@BilBini" target="_blank">
