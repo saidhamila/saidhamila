@@ -17,8 +17,6 @@
   <br/><br/>
   🤖 Community Manager @ <strong>TIMUN</strong> – I designed and launched our Discord server and developed a custom bot for our Model United Nations simulations. Check it out: <a href="https://discord.gg/EebBEGUhqx" target="_blank">Join our TIMUN Discord</a>
   <br/><br/>
-  📬 Let's connect on <strong>TikTok: <a href="https://www.tiktok.com/@BilBini" target="_blank">@BilBini</a></strong>
-  <br/><br/>
   👥 Open to collaborations and discussions. Let's build something amazing together!
 </div>
 
