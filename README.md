@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BilBini.BilBini" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=saidhamila.saidhamila" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there,+I%27m+@BilBini!+👋;Vibe+Coder+and+CS+Student;Eager+about+AI;ML,+Game+Dev+and+More!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there,+I%27m+@SaidHamila!+👋;Coder+and+CS+Student;Eager+about+AI;ML,+Game+Dev+and+More!" />
 </h1>
 
 <h3 align="center">Vibe Coder | Computer Science Student | AI & ML Enthusiast | Community Manager</h3>
@@ -55,8 +55,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=BilBini&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=BilBini&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=saidhamila&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=saidhamila&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilBini&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidhamila&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
