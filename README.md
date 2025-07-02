@@ -15,7 +15,7 @@
   <br/><br/>
   🎓 Currently pursuing a <strong>Bachelor in Computer Science</strong> at IUBH University and living the coder life  
   <br/><br/>
-  🤖 Community Manager @ <strong>TIMUN</strong> – I designed and launched our Discord server and developed a custom bot for our Model United Nations simulations. Check it out: <a href="https://discord.gg/EebBEGUhqx" target="_blank">Join our TIMUN Discord</a>
+  🤖 Community Manager @ <strong>TIMUN</strong> – I designed and launched our Discord server and developed a custom bot for our Model United Nations simulations.
   <br/><br/>
   👥 Open to collaborations and discussions. Let's build something amazing together!
 </div>
